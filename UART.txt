@@ -1,10 +1,3 @@
-Welcome to minicom 2.10
-
-OPTIONS: I18n 
-Port /dev/serial0, 15:38:17 [U]
-
-Press CTRL-A Z for help on special keys
-
 BGA IC
 Xtal:1
 DDR3 init.
